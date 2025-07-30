@@ -1,6 +1,6 @@
 class AppConstants {
 // Codecanyon
-  static const String baseUrl = 'https://demo.readyecommerce.app/api';
+  static const String baseUrl = 'https://totalhealthherbalist.com/api';
   // QA Testing
   //static const String baseUrl = 'https://uat.readyecommerce.app/api';
   // static const String baseUrl = 'http://chat.razinsoft.site/api';
