@@ -57,6 +57,9 @@ dependencies:
   share_plus: ^10.1.4
   pusher_channels_flutter: ^2.5.0
   open_file: ^3.5.10
+
+  local_auth: ^2.1.6
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

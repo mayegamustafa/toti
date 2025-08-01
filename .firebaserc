@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "prod": "ready-ecommerce-72cbc",
+    "default": "ready-ecommerce-72cbc"
+  },
+  "targets": {},
+  "etags": {}
+}

@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "readye-commerce-customer-flutter"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "readye-commerce-customer-flutter-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

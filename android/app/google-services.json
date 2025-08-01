@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "253369840347",
-    "project_id": "ready-ecommerce",
-    "storage_bucket": "ready-ecommerce.appspot.com"
+    "project_number": "135794581533",
+    "project_id": "ready-ecommerce-72cbc",
+    "storage_bucket": "ready-ecommerce-72cbc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:253369840347:android:0e6e5572d897b26849d2fe",
+        "mobilesdk_app_id": "1:135794581533:android:86c6df0cae9d22966de6f4",
         "android_client_info": {
           "package_name": "com.readyecommerce"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCnwkduK9tqESOOZI_-MemybQ4CEJoimoY"
+          "current_key": "AIzaSyD15kVjvtWUrxZHv8MXveMRYn7IB5GqSl8"
         }
       ],
       "services": {
